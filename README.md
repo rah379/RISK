@@ -5,6 +5,9 @@ Teresa Huang (th458)
 Rowan Hennessy (rah379)
 Aidan O'Connor (ao274)
 
+To See Simple Visualization- open "Visualization.pdf"
+
+
 FOLLOW DIRECTIONS IN INSTALL.txt TO PLAY RISK
 1. To begin, open a new Terminal shell and expand it to fill your screen
 2. CD into the correct directory, as with any other project requiring make commands
