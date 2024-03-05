@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Winner",
+    "continent": "USA",
+    "neighbors": [
+      "Loser"
+    ]
+  },
+  {
+    "name": "Loser",
+    "continent": "USA",
+    "neighbors": [
+      "Winner"
+    ]
+  }
+]

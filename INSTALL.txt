@@ -1,0 +1,11 @@
+Directions for installation:
+-Follow the 3110 textbook instructions for OPAM installation 
+(https://cs3110.github.io/textbook/chapters/preface/install.html)
+-When the zip file is downloaded and unzipped, open a terminal and cd into
+the directory containing the zip (NOTE: we recommend using a standard terminal 
+instead of VSCode terminal so the map shows up clear and as intended) 
+-Run the following:
+dune build
+make play
+
+-Now follow the instructions given in the terminal and you can see the map working

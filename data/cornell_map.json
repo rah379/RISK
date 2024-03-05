@@ -1,0 +1,342 @@
+[
+  {
+    "name": "RPCC",
+    "continent": "North Campus",
+    "neighbors": [
+      "Jameson",
+      "Low-Rises",
+      "Morrison",
+      "Ganedago",
+      "Donlon"
+    ]
+  },
+  {
+    "name": "Low-Rises",
+    "continent": "North Campus",
+    "neighbors": [
+      "RPCC",
+      "Donlon"
+    ]
+  },
+  {
+    "name": "Donlon",
+    "continent": "North Campus",
+    "neighbors": [
+      "RPCC",
+      "Low-Rises",
+      "Appel",
+      "CKB"
+    ]
+  },
+  {
+    "name": "Appel",
+    "continent": "North Campus",
+    "neighbors": [
+      "Donlon",
+      "CKB",
+      "Helen Newman"
+    ]
+  },
+  {
+    "name": "Jameson",
+    "continent": "North Campus",
+    "neighbors": [
+      "Ganedago",
+      "Morrison",
+      "RPCC"
+    ]
+  },
+  {
+    "name": "Ganedago",
+    "continent": "North Campus",
+    "neighbors": [
+      "RPCC",
+      "Morrison",
+      "Jameson"
+    ]
+  },
+  {
+    "name": "Dickson",
+    "continent": "North Campus",
+    "neighbors": [
+      "CKB",
+      "Helen Newman",
+      "Goldwin Smith"
+    ]
+  },
+  {
+    "name": "Helen Newman",
+    "continent": "North Campus",
+    "neighbors": [
+      "CKB",
+      "Dickson",
+      "Appel",
+      "Statler"
+    ]
+  },
+  {
+    "name": "Morrison",
+    "continent": "North Campus",
+    "neighbors": [
+      "Goldwin Smith",
+      "Ganedago",
+      "Jameson",
+      "RPCC"
+    ]
+  },
+  {
+    "name": "CKB",
+    "continent": "North Campus",
+    "neighbors": [
+      "Dickson",
+      "Helen Newman",
+      "Appel",
+      "Donlon"
+    ]
+  },
+  {
+    "name": "Statler",
+    "continent": "Engineering Quad",
+    "neighbors": [
+      "Helen Newman",
+      "Duffield"
+    ]
+  },
+  {
+    "name": "Duffield",
+    "continent": "Engineering Quad",
+    "neighbors": [
+      "Carpenter",
+      "Statler",
+      "Construction",
+      "Rhodes"
+    ]
+  },
+  {
+    "name": "Carpenter",
+    "continent": "Engineering Quad",
+    "neighbors": [
+      "Duffield",
+      "Snee",
+      "Construction",
+      "Goldwin Smith"
+    ]
+  },
+  {
+    "name": "Construction",
+    "continent": "Engineering Quad",
+    "neighbors": [
+      "Rhodes",
+      "Duffield",
+      "Carpenter",
+      "Snee",
+      "IBC"
+    ]
+  },
+  {
+    "name": "Rhodes",
+    "continent": "Engineering Quad",
+    "neighbors": [
+      "Construction",
+      "Duffield"
+    ]
+  },
+  {
+    "name": "Snee",
+    "continent": "Engineering Quad",
+    "neighbors": [
+      "Carpenter",
+      "Construction",
+      "IBC"
+    ]
+  },
+  {
+    "name": "IBC",
+    "continent": "College Town",
+    "neighbors": [
+      "7/11",
+      "Snee",
+      "Construction",
+      "CTB"
+    ]
+  },
+  {
+    "name": "7/11",
+    "continent": "College Town",
+    "neighbors": [
+      "IBC",
+      "Ned's",
+      "CTB"
+    ]
+  },
+  {
+    "name": "CTB",
+    "continent": "College Town",
+    "neighbors": [
+      "IBC",
+      "Ned's",
+      "Ho Plaza",
+      "Carpenter",
+      "7/11"
+    ]
+  },
+  {
+    "name": "Ned's",
+    "continent": "College Town",
+    "neighbors": [
+      "Hideaway",
+      "CTB",
+      "7/11"
+    ]
+  },
+  {
+    "name": "Hideaway",
+    "continent": "College Town",
+    "neighbors": [
+      "Level B",
+      "Ned's",
+      "Loco",
+      "Keaton",
+      "Noyes Rec"
+    ]
+  },
+  {
+    "name": "Level B",
+    "continent": "College Town",
+    "neighbors": [
+      "Hideaway",
+      "Loco"
+    ]
+  },
+  {
+    "name": "Loco",
+    "continent": "College Town",
+    "neighbors": [
+      "Level B",
+      "Hideaway",
+      "Keaton"
+    ]
+  },
+  {
+    "name": "Ho Plaza",
+    "continent": "Arts Quad",
+    "neighbors": [
+      "Olin",
+      "Uris",
+      "CTB"
+    ]
+  },
+  {
+    "name": "Olin",
+    "continent": "Arts Quad",
+    "neighbors": [
+      "Uris",
+      "Ho Plaza",
+      "Goldwin Smith"
+    ]
+  },
+  {
+    "name": "Goldwin Smith",
+    "continent": "Arts Quad",
+    "neighbors": [
+      "Johnson",
+      "McGraw",
+      "Morrison",
+      "Dickson",
+      "Carpenter",
+      "Olin"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "continent": "Arts Quad",
+    "neighbors": [
+      "McGraw",
+      "Goldwin Smith"
+    ]
+  },
+  {
+    "name": "McGraw",
+    "continent": "Arts Quad",
+    "neighbors": [
+      "Baker Tower",
+      "Johnson",
+      "Goldwin Smith",
+      "Uris"
+    ]
+  },
+  {
+    "name": "Uris",
+    "continent": "Arts Quad",
+    "neighbors": [
+      "Noyes Rec",
+      "McGraw",
+      "Olin",
+      "Ho Plaza"
+    ]
+  },
+  {
+    "name": "Baker Tower",
+    "continent": "West Campus",
+    "neighbors": [
+      "Noyes Rec",
+      "Rose",
+      "Cook",
+      "McGraw"
+    ]
+  },
+  {
+    "name": "Noyes Rec",
+    "continent": "West Campus",
+    "neighbors": [
+      "Hideaway",
+      "Loco",
+      "Keaton",
+      "Bethe",
+      "Rose",
+      "Baker Tower",
+      "Uris"
+    ]
+  },
+  {
+    "name": "Keaton",
+    "continent": "West Campus",
+    "neighbors": [
+      "Loco",
+      "Hideaway",
+      "Noyes Rec",
+      "Bethe",
+      "Rose"
+    ]
+  },
+  {
+    "name": "Bethe",
+    "continent": "West Campus",
+    "neighbors": [
+      "Keaton",
+      "Noyes Rec",
+      "Rose",
+      "Cook"
+    ]
+  },
+  {
+    "name": "Rose",
+    "continent": "West Campus",
+    "neighbors": [
+      "Keaton",
+      "Bethe",
+      "Noyes Rec",
+      "Cook",
+      "Baker Tower"
+    ]
+  },
+  {
+    "name": "Cook",
+    "continent": "West Campus",
+    "neighbors": [
+      "Bethe",
+      "Rose",
+      "Baker Tower"
+    ]
+  }
+]

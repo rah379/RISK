@@ -1,0 +1,418 @@
+[
+  {
+    "name": "Alaska",
+    "continent": "North America",
+    "neighbors": [
+      "Northwest Territory",
+      "Kamchatka",
+      "Alberta"
+    ]
+  },
+  {
+    "name": "Alberta",
+    "continent": "North America",
+    "neighbors": [
+      "Ontario",
+      "Western US",
+      "Northwest Territory",
+      "Alaska"
+    ]
+  },
+  {
+    "name": "Central America",
+    "continent": "North America",
+    "neighbors": [
+      "Western US",
+      "Eastern US",
+      "Venezuela"
+    ]
+  },
+  {
+    "name": "Eastern US",
+    "continent": "North America",
+    "neighbors": [
+      "Quebec",
+      "Western US",
+      "Central America"
+    ]
+  },
+  {
+    "name": "Greenland",
+    "continent": "North America",
+    "neighbors": [
+      "Iceland",
+      "Northwest Territory",
+      "Ontario",
+      "Quebec"
+    ]
+  },
+  {
+    "name": "Northwest Territory",
+    "continent": "North America",
+    "neighbors": [
+      "Greenland",
+      "Alberta",
+      "Alaska",
+      "Ontaario"
+    ]
+  },
+  {
+    "name": "Ontario",
+    "continent": "North America",
+    "neighbors": [
+      "Quebec",
+      "Greenland",
+      "Northwest Territory",
+      "Eastern US",
+      "Western US",
+      "Alberta"
+    ]
+  },
+  {
+    "name": "Quebec",
+    "continent": "North America",
+    "neighbors": [
+      "Ontario",
+      "Eastern US",
+      "Greenland"
+    ]
+  },
+  {
+    "name": "Western US",
+    "continent": "North America",
+    "neighbors": [
+      "Eastern US",
+      "Central America",
+      "Alberta",
+      "Ontario"
+    ]
+  },
+  {
+    "name": "Argentina",
+    "continent": "South America",
+    "neighbors": [
+      "Peru",
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Brazil",
+    "continent": "South America",
+    "neighbors": [
+      "Peru",
+      "Venezuela",
+      "Argentina",
+      "North Africa"
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "continent": "South America",
+    "neighbors": [
+      "Central America",
+      "Brazil",
+      "Peru"
+    ]
+  },
+  {
+    "name": "Peru",
+    "continent": "South America",
+    "neighbors": [
+      "Brazil",
+      "Argentina",
+      "Venezuela"
+    ]
+  },
+  {
+    "name": "Congo",
+    "continent": "Africa",
+    "neighbors": [
+      "North Africa",
+      "South Africa",
+      "East Africa"
+    ]
+  },
+  {
+    "name": "East Africa",
+    "continent": "Africa",
+    "neighbors": [
+      "Madagascar",
+      "South Africa",
+      "Congo",
+      "North Africa",
+      "Egypt",
+      "Middle East"
+    ]
+  },
+  {
+    "name": "Egypt",
+    "continent": "Africa",
+    "neighbors": [
+      "Southern Europe",
+      "North Africa",
+      "East Africa",
+      "Middle East"
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "continent": "Africa",
+    "neighbors": [
+      "South Africa",
+      "East Africa"
+    ]
+  },
+  {
+    "name": "North Africa",
+    "continent": "Africa",
+    "neighbors": [
+      "Egypt",
+      "Western Europe",
+      "Brazil",
+      "Congo",
+      "East Africa",
+      "Southern Europe"
+    ]
+  },
+  {
+    "name": "South Africa",
+    "continent": "Africa",
+    "neighbors": [
+      "Madagascar",
+      "Congo",
+      "East Africa"
+    ]
+  },
+  {
+    "name": "Eastern Australia",
+    "continent": "Australia",
+    "neighbors": [
+      "New Guinea",
+      "Western Australia"
+    ]
+  },
+  {
+    "name": "New Guinea",
+    "continent": "Australia",
+    "neighbors": [
+      "Eastern Australia",
+      "Indonesia",
+      "Western Australia"
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "continent": "Australia",
+    "neighbors": [
+      "New Guinea",
+      "Western Australia",
+      "Siam"
+    ]
+  },
+  {
+    "name": "Western Australia",
+    "continent": "Australia",
+    "neighbors": [
+      "Eastern Australia",
+      "Indonesia",
+      "New Guinea"
+    ]
+  },
+  {
+    "name": "Great Britain",
+    "continent": "Europe",
+    "neighbors": [
+      "Iceland",
+      "Scandinavia",
+      "Northern Europe",
+      "Western Europe"
+    ]
+  },
+  {
+    "name": "Iceland",
+    "continent": "Europe",
+    "neighbors": [
+      "Greenland",
+      "Scandinavia",
+      "Great Britain"
+    ]
+  },
+  {
+    "name": "Northern Europe",
+    "continent": "Europe",
+    "neighbors": [
+      "Scandanavia",
+      "Great Britain",
+      "Western Europe",
+      "Southern Europe",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Scandanavia",
+    "continent": "Europe",
+    "neighbors": [
+      "Ukraine",
+      "Northern Europe",
+      "Great Britain",
+      "Iceland"
+    ]
+  },
+  {
+    "name": "Southern Europe",
+    "continent": "Europe",
+    "neighbors": [
+      "Northern Europe",
+      "Southern Europe",
+      "Western Europe",
+      "Egypt",
+      "North Africa",
+      "Middle East"
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "continent": "Europe",
+    "neighbors": [
+      "Scandanavia",
+      "Northern Europe",
+      "Southern Europe",
+      "Middle East",
+      "Afghanistan",
+      "Ural"
+    ]
+  },
+  {
+    "name": "Western Europe",
+    "continent": "Europe",
+    "neighbors": [
+      "North Africa",
+      "Southern Europe",
+      "Northern Europe",
+      "Great Britain"
+    ]
+  },
+  {
+    "name": "Afghanistan",
+    "continent": "Asia",
+    "neighbors": [
+      "Ukraine",
+      "Ural",
+      "China",
+      "India",
+      "Middle East"
+    ]
+  },
+  {
+    "name": "China",
+    "continent": "Asia",
+    "neighbors": [
+      "Siam",
+      "India",
+      "Afghanistan",
+      "Ural",
+      "Siberia",
+      "Mongolia"
+    ]
+  },
+  {
+    "name": "India",
+    "continent": "Asia",
+    "neighbors": [
+      "Siam",
+      "Middle East",
+      "Afghanistan",
+      "China"
+    ]
+  },
+  {
+    "name": "Irkutsk",
+    "continent": "Asia",
+    "neighbors": [
+      "Mongolia",
+      "Siberia",
+      "Yakutsk",
+      "Kamchatka"
+    ]
+  },
+  {
+    "name": "Japan",
+    "continent": "Asia",
+    "neighbors": [
+      "Kamchatka",
+      "Mongolia"
+    ]
+  },
+  {
+    "name": "Kamchatka",
+    "continent": "Asia",
+    "neighbors": [
+      "Yakutsk",
+      "Irkutsk",
+      "Japan",
+      "Mongolia",
+      "Alaska"
+    ]
+  },
+  {
+    "name": "Middle East",
+    "continent": "Asia",
+    "neighbors": [
+      "Afghanistan",
+      "India",
+      "Ukraine",
+      "Egypt",
+      "Southern Europe",
+      "East Africa"
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "continent": "Asia",
+    "neighbors": [
+      "Irkutsk",
+      "Japan",
+      "China",
+      "Kamchatka"
+    ]
+  },
+  {
+    "name": "Siam",
+    "continent": "Asia",
+    "neighbors": [
+      "Indonesia",
+      "India",
+      "China"
+    ]
+  },
+  {
+    "name": "Siberia",
+    "continent": "Asia",
+    "neighbors": [
+      "Ural",
+      "Irkutsk",
+      "Mongolia",
+      "China",
+      "Yakutsk"
+    ]
+  },
+  {
+    "name": "Ural",
+    "continent": "Asia",
+    "neighbors": [
+      "Ukraine",
+      "Afghanistan",
+      "China",
+      "Siberia"
+    ]
+  },
+  {
+    "name": "Yakutsk",
+    "continent": "Asia",
+    "neighbors": [
+      "Sibera",
+      "Irkutsk",
+      "Kamchatka"
+    ]
+  }
+]
